@@ -1,0 +1,4 @@
+//nombre de la documentación : Documentacion_Eco_Real_Estate.txt
+
+////////////////////////////////Cuerpo de la documentación///////////////////////////////////////
+### Estructuración del proyecto
